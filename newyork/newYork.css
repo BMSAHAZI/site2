@@ -1,0 +1,113 @@
+@font-face {
+    font-family: verdana;
+    src: url(Courgette-Regular.ttf);
+}
+  
+conteneur {
+    width: 980px;
+    margin: auto;
+   
+    
+} 
+nav {
+  color: #003884;
+  cursor:pointer;
+  
+}
+a{
+  text-decoration:none;
+}
+
+a:hover {
+  color:yellow;
+  
+}
+header img {
+    display:block;
+    margin: auto;
+}
+
+header p {
+    font-size: 25px;
+    background-color: #d7e1ef;
+   
+}
+
+h1,h2,h3 {
+    
+    text-align:center;
+}
+
+
+.flag {
+  float:right;
+ 
+  
+}  
+.statue {
+  float:left;
+  
+}  
+.bridge {
+  float:right;
+ 
+  
+}  
+.taxi {
+  float:left;
+   
+} 
+
+
+body {
+  font-family: 'Source Sans Pro', Arial, sans-serif;
+  font-size: 18px;
+  color: #444;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+  width: 980px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 40px;
+  color: #003884;
+}
+
+h2 {
+  font-size: 35px;
+  color: #4f89b9;
+}
+
+h3 {
+  font-size: 25px;
+  color: #003884;
+}
+
+p {
+  margin-bottom: 20px;
+  color: #444;
+  text-align:justify;
+}
+
+blockquote {
+  font-size: 25px;
+  background-color: #d7e1ef;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+footer {
+  font-size: 14px;
+  text-align: center;
+  color: #444;
+}
+footer img {
+    display:block;
+    margin: auto;
+}
+
+span {
+   color: #003884;
+}
